@@ -5,7 +5,7 @@ public class Main {
     }
     public static void helpme() {
         while(true) {
-            Scanner.out.println("Help me11111111111!");
+            System.out.println("Help me1111111111111111111111!");
         }
 
     }
