@@ -4,4 +4,11 @@ public class Main {
         System.out.println("Opa opa");
         System.out.println("QWE");
     }
+    public static void helpme() {
+        while(true) {
+            System.out.println("lohi");
+        }
+
+    }
+
 }
