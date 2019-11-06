@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Markelov");
     }
     public static void helpme() {
         while(true) {
