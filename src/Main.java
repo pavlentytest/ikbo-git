@@ -5,10 +5,13 @@ public class Main {
         System.out.println("QWE");
     }
     public static void helpme() {
-        while(true) {
+        while (true) {
             System.out.println("lohi");
+        }
+    public static void Test() {
+
+        System.out.println("testsv");
         }
 
     }
-
 }
